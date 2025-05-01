@@ -8,16 +8,15 @@
 - 🌱 Currently learning **MERN Stack**, **TypeScript**, and improving my **data structures & algorithms**
 - 🧠 Exploring backend technologies like **Node.js**, **Express**, **MongoDB**, and **JWT-based authentication**
 - 💼 Interning at **Softronics, Perinthalmanna**, where I get hands-on experience in real-world projects
-- 🛠️ Working on projects like **cineSphere** (a movie-related app), **TRUELINK** (multi-role platform), and **File Secure** (secure file sharing)
+- 🛠️ Working on projects like **cineSphere** (a movie-related app), **TRUELINK** (multi-role platform), and **NUFU STORE** (E-commerce platform)
 - 💞️ Looking to collaborate on **open-source projects**, **web apps**, and **backend APIs**
 - 📫 How to reach me:  
-  - ✉️ Email: nufaisahamed@gmail.com  
-  - 💼 LinkedIn: [linkedin.com/in/nufaisahamed](https://linkedin.com/in/nufaisahamed)  
+  - ✉️ Email: ahamednufais4161@gmail.com 
+  - 💼 LinkedIn: [linkedin.com/in/nufaisahamed](www.linkedin.com/in/nufais-ahamed)  
   - 🌐 Portfolio: *Coming Soon*
 
 ---
 
-### 😄 Pronouns: He/Him
 
 ### ⚡ Fun facts:
 - I love building things that solve real problems 💡
