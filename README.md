@@ -12,7 +12,7 @@
 - 💞️ Looking to collaborate on **open-source projects**, **web apps**, and **backend APIs**
 - 📫 How to reach me:  
   - ✉️ Email: ahamednufais4161@gmail.com 
-  - 💼 LinkedIn: [linkedin.com/in/nufaisahamed](www.linkedin.com/in/nufais-ahamed)  
+  - 💼 LinkedIn: [www.linkedin.com/in/nufais-ahamed](www.linkedin.com/in/nufais-ahamed)  
   - 🌐 Portfolio: *Coming Soon*
 
 ---
